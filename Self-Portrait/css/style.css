@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
+body {
+  font-family: 'Zilla Slab', serif;
+  text-align: center;
+  background-color: #48c9b0;
+  color: white;
+}
+canvas {
+  border: 10px solid black;
+  background-color: white;
+}
+.center {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+  background-color: white;
+}
+
+footer {
+  padding: 20px;
+}
+
+.fa {
+  color: white;
+}
+.fa-github:hover {
+  color: black;
+  opacity: 0.6;
+}
+.fa-linkedin-square:hover {
+  color: rgb(0, 119, 181);
+  opacity: 0.6;
+}
+.fa-youtube-play:hover {
+  color: red;
+  opacity: 0.6;
+}
+.fa-twitter:hover {
+  color: rgb(0, 172, 237);
+  opacity: 0.6;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
