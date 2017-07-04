@@ -1,4 +1,4 @@
-#Star Particles
+# Star Particles
 
 Remake of the classic Canvas particles example of when the mouse hovers over particles the dots grow in size. 
 
