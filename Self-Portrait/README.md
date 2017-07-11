@@ -1,4 +1,4 @@
 # Self-Portrait
-View Here: https://codepen.io/jmatty16/full/NgYpvb/
+View Here: https://jmatty16.github.io/Canvas-Drawings/Self-Portrait/
 
 My first time drawing using canvas

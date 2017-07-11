@@ -1,5 +1,7 @@
 # Star Particles
 
+View: https://jmatty16.github.io/Canvas-Drawings/Star-Particles/
+
 Remake of the classic Canvas particles example of when the mouse hovers over particles the dots grow in size. 
 
 I decided to use stars because they were more difficult to draw than dots. instead of changing the radius, I changed the length of each line in the five pointed star and calculated the coordinates using the angles between the lines. 
