@@ -1,6 +1,6 @@
 # Star Particles
 
-View: https://jmatty16.github.io/Canvas-Drawings/Star-Particles/
+View: https://jmattick.github.io/Canvas-Drawings/Star-Particles/
 
 Remake of the classic Canvas particles example of when the mouse hovers over particles the dots grow in size. 
 
